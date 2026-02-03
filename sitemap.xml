@@ -1,145 +1,145 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="http://localhost:3002/sitemap_style.xsl" ?>
+<?xml-stylesheet type="text/xsl" href="http://localhost:3004/sitemap_style.xsl" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://localhost:3002</loc>
+    <loc>http://localhost:3004</loc>
   </url>
   <url>
-    <loc>http://localhost:3002/setup</loc>
+    <loc>http://localhost:3004/setup</loc>
   </url>
   <url>
-    <loc>http://localhost:3002/python-basics</loc>
+    <loc>http://localhost:3004/python-basics</loc>
   </url>
   <url>
-    <loc>http://localhost:3002/scientific-python</loc>
+    <loc>http://localhost:3004/scientific-python</loc>
   </url>
   <url>
-    <loc>http://localhost:3002/plotting</loc>
+    <loc>http://localhost:3004/plotting</loc>
   </url>
   <url>
-    <loc>http://localhost:3002/examples</loc>
+    <loc>http://localhost:3004/examples</loc>
   </url>
   <url>
-    <loc>http://localhost:3002/game-of-life-full</loc>
+    <loc>http://localhost:3004/game-of-life-full</loc>
   </url>
   <url>
-    <loc>http://localhost:3002/exercises</loc>
+    <loc>http://localhost:3004/exercises</loc>
   </url>
   <url>
-    <loc>http://localhost:3002/game-of-life-tutorial</loc>
+    <loc>http://localhost:3004/game-of-life-tutorial</loc>
   </url>
   <url>
-    <loc>http://localhost:3002/support-material</loc>
+    <loc>http://localhost:3004/support-material</loc>
   </url>
   <url>
-    <loc>http://localhost:3002/image-processing-basics</loc>
+    <loc>http://localhost:3004/image-processing-basics</loc>
   </url>
   <url>
-    <loc>http://localhost:3002/blob-orientation</loc>
+    <loc>http://localhost:3004/blob-orientation</loc>
   </url>
   <url>
-    <loc>http://localhost:3002/exercises-1</loc>
+    <loc>http://localhost:3004/exercises-1</loc>
   </url>
   <url>
-    <loc>http://localhost:3002/image-processing-tutorial</loc>
+    <loc>http://localhost:3004/image-processing-tutorial</loc>
   </url>
   <url>
-    <loc>http://localhost:3002/image-processing-practical-work</loc>
+    <loc>http://localhost:3004/image-processing-practical-work</loc>
   </url>
   <url>
-    <loc>http://localhost:3002/image-processing-practical-work-bonus</loc>
+    <loc>http://localhost:3004/image-processing-practical-work-bonus</loc>
   </url>
   <url>
-    <loc>http://localhost:3002/support-material-1</loc>
+    <loc>http://localhost:3004/support-material-1</loc>
   </url>
   <url>
-    <loc>http://localhost:3002/pandas-introduction</loc>
+    <loc>http://localhost:3004/pandas-introduction</loc>
   </url>
   <url>
-    <loc>http://localhost:3002/linear-regression-linear-model</loc>
+    <loc>http://localhost:3004/linear-regression-linear-model</loc>
   </url>
   <url>
-    <loc>http://localhost:3002/linear-regression-advanced-model</loc>
+    <loc>http://localhost:3004/linear-regression-advanced-model</loc>
   </url>
   <url>
-    <loc>http://localhost:3002/numerical-derivation</loc>
+    <loc>http://localhost:3004/numerical-derivation</loc>
   </url>
   <url>
-    <loc>http://localhost:3002/ressources</loc>
+    <loc>http://localhost:3004/ressources</loc>
   </url>
   <url>
-    <loc>http://localhost:3002/word-generator</loc>
+    <loc>http://localhost:3004/word-generator</loc>
   </url>
   <url>
-    <loc>http://localhost:3002/exercises-2</loc>
+    <loc>http://localhost:3004/exercises-2</loc>
   </url>
   <url>
-    <loc>http://localhost:3002/data-tutorial</loc>
+    <loc>http://localhost:3004/data-tutorial</loc>
   </url>
   <url>
-    <loc>http://localhost:3002/data-practical-work</loc>
+    <loc>http://localhost:3004/data-practical-work</loc>
   </url>
   <url>
-    <loc>http://localhost:3002/support-material-2</loc>
+    <loc>http://localhost:3004/support-material-2</loc>
   </url>
   <url>
-    <loc>http://localhost:3002/ressources-1</loc>
+    <loc>http://localhost:3004/ressources-1</loc>
   </url>
   <url>
-    <loc>http://localhost:3002/badminton</loc>
+    <loc>http://localhost:3004/badminton</loc>
   </url>
   <url>
-    <loc>http://localhost:3002/gravity</loc>
+    <loc>http://localhost:3004/gravity</loc>
   </url>
   <url>
-    <loc>http://localhost:3002/molecular-dynamics</loc>
+    <loc>http://localhost:3004/molecular-dynamics</loc>
   </url>
   <url>
-    <loc>http://localhost:3002/exercises-3</loc>
+    <loc>http://localhost:3004/exercises-3</loc>
   </url>
   <url>
-    <loc>http://localhost:3002/simple-pendulum</loc>
+    <loc>http://localhost:3004/simple-pendulum</loc>
   </url>
   <url>
-    <loc>http://localhost:3002/harmonic-oscillator</loc>
+    <loc>http://localhost:3004/harmonic-oscillator</loc>
   </url>
   <url>
-    <loc>http://localhost:3002/duffing-oscillator</loc>
+    <loc>http://localhost:3004/duffing-oscillator</loc>
   </url>
   <url>
-    <loc>http://localhost:3002/optimization-basics</loc>
+    <loc>http://localhost:3004/optimization-basics</loc>
   </url>
   <url>
-    <loc>http://localhost:3002/ressources-2</loc>
+    <loc>http://localhost:3004/ressources-2</loc>
   </url>
   <url>
-    <loc>http://localhost:3002/interactive-optimization</loc>
+    <loc>http://localhost:3004/interactive-optimization</loc>
   </url>
   <url>
-    <loc>http://localhost:3002/river-crossing-and-more</loc>
+    <loc>http://localhost:3004/river-crossing-and-more</loc>
   </url>
   <url>
-    <loc>http://localhost:3002/stepbystep-optimization</loc>
+    <loc>http://localhost:3004/stepbystep-optimization</loc>
   </url>
   <url>
-    <loc>http://localhost:3002/exercises-4</loc>
+    <loc>http://localhost:3004/exercises-4</loc>
   </url>
   <url>
-    <loc>http://localhost:3002/rosenbrock-and-curve-fiting</loc>
+    <loc>http://localhost:3004/rosenbrock-and-curve-fiting</loc>
   </url>
   <url>
-    <loc>http://localhost:3002/bridge-optimization</loc>
+    <loc>http://localhost:3004/bridge-optimization</loc>
   </url>
   <url>
-    <loc>http://localhost:3002/support-material-3</loc>
+    <loc>http://localhost:3004/support-material-3</loc>
   </url>
   <url>
-    <loc>http://localhost:3002/exercises-5</loc>
+    <loc>http://localhost:3004/exercises-5</loc>
   </url>
   <url>
-    <loc>http://localhost:3002/classification-demo</loc>
+    <loc>http://localhost:3004/classification-demo</loc>
   </url>
   <url>
-    <loc>http://localhost:3002/genetic-snake-practical-work</loc>
+    <loc>http://localhost:3004/genetic-snake-practical-work</loc>
   </url>
 </urlset>
