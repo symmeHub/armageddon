@@ -6,6 +6,10 @@
     // "image": "mcr.microsoft.com/devcontainers/base:jammy"
     "image": "scientific_python:latest",
     "runArgs": ["--network=host"],
+    "forwardPorts": [3000, 3100],
+    "portsAttributes": {
+        "3000": { "label": "MyST site" },
+        "3100": { "label": "MyST outputs/chunks" }},
     "customizations": {
         "vscode": {
             "settings": {
@@ -41,7 +45,7 @@
         }
     },
     // "postCreateCommand": "/bin/bash /tmp/postCreateCommand.sh"
-    "postStartCommand": " pip install git+https://github.com/lcharleux/truss && /opt/conda/envs/${CONDA_ENV_NAME}/bin/pre-commit install"
+    "postStartCommand": " pip install git+https://github.com/lcharleux/truss && /opt/conda/envs/${CONDA_ENV_NAME}/bin/pre-commit install",
     // "features": {
     // 	"ghcr.io/devcontainers/features/docker-outside-of-docker:1": {}
     // }

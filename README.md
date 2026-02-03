@@ -4,7 +4,7 @@ Welcome to you in Positron. This repository is intended to gather documents, mai
 
 The associated book is available online here: 
 
-- Github : https://symmehub.github.io/positron/intro.html
+- Github : https://symmehub.github.io/armagedon/intro.html
 
 ## Devcontainer
 
@@ -51,4 +51,4 @@ To update the online Book, you need to trigger de CI/CD. Two options are availab
 
 - If  Gitlab :
 
-    - Go to: https://gitlab.com/symmehub/teaching/positron >> CI/CD/ >> ***Run pipeline***
+    - Go to: https://gitlab.com/symmehub/teaching/armagedon >> CI/CD/ >> ***Run pipeline***
