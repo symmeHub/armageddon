@@ -6,9 +6,9 @@
     // "image": "mcr.microsoft.com/devcontainers/base:jammy"
     "image": "scientific_python:latest",
     "runArgs": ["--network=host"],
-    "forwardPorts": [3000, 3100],
+    "forwardPorts": [3001, 3100],
     "portsAttributes": {
-        "3000": { "label": "MyST site" },
+        "3001": { "label": "MyST site" },
         "3100": { "label": "MyST outputs/chunks" }},
     "customizations": {
         "vscode": {

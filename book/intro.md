@@ -4,10 +4,10 @@ Positron is a repository made collectively by several teachers and researchers f
 
 The resources available are intended to give practical skills to students. They are not designed as exhaustive sources but more as tools to provide beginners with the basics. 
 
-It is divided by themes as follows:
+<!-- It is divided by themes as follows:
 
 ```{tableofcontents}
-```
+``` -->
 
 The contributors to this project are:
 * [Ludovic Charleux](mailto:ludovic.charleux@univ-smb.fr)

@@ -4,7 +4,7 @@ Welcome to you in Positron. This repository is intended to gather documents, mai
 
 The associated book is available online here: 
 
-- Github : https://symmehub.github.io/armagedon/intro.html
+- Github : https://symmehub.github.io/armageddon/
 
 ## Devcontainer
 
@@ -17,38 +17,3 @@ Before playing, you need to activate **pre-commit** in your environment:
 ``` bash
 pre-commit install
 ```
-
-## Book building and publishing
-To build the book and test it locally, run the following command from the root folder:
-
-``` bash
-jupyter-book build book
-```
-
-Sometimes it is necessary to clean the book build folder with it:
-
-``` bash
-jupyter-book clean book
-```
-
-To publish the book once it has been tested and validated by you:
-
-``` bash
-ghp-import -n -p -f book/_build/html
-``` 
-
-## Update Online Book
-
-To update the online Book, you need to trigger de CI/CD. Two options are available here :
-
-1. Add key **[ci-run]** to your commit message.
-
-    Example :
-
-            git commit -am "[ci-run] This is an example commit to trigger CI"
-
-2. Triggering from CI/CD from web. 
-
-- If  Gitlab :
-
-    - Go to: https://gitlab.com/symmehub/teaching/armagedon >> CI/CD/ >> ***Run pipeline***
