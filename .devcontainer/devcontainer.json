@@ -40,12 +40,13 @@
                 "ms-toolsai.jupyter",
                 "ms-python.pylint",
                 "mhutchie.git-graph",
-                "ms-vscode.live-server"
+                "ms-vscode.live-server",
+                "openai.chatgpt"
             ]
         }
-    },
+    }
     // "postCreateCommand": "/bin/bash /tmp/postCreateCommand.sh"
-    "postStartCommand": " pip install git+https://github.com/lcharleux/truss && /opt/conda/envs/${CONDA_ENV_NAME}/bin/pre-commit install",
+    // "postStartCommand": 
     // "features": {
     // 	"ghcr.io/devcontainers/features/docker-outside-of-docker:1": {}
     // }

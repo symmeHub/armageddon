@@ -90,11 +90,15 @@ project:
       children:
       - file: machine_learning/exercises/tutorials/classification_demo.ipynb
       - file: machine_learning/exercises/tutorials/genetic_snake_practical_work.ipynb
-
+  jupyter: true
+    # lite: true
+    # server:
+    #   url: https://gpu-epu.univ-savoie.fr
+    #   token: "xxx"
 site:
   template: book-theme
   options:
-    title: "POSITRON: PythOn for Science In The Reblochon cOuNtry"
+    # title: "POSITRON: PythOn for Science In The Reblochon cOuNtry"
     favicon: favicon.ico
     logo: logo.png
     style: ./_static/style.css
